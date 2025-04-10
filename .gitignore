@@ -3,3 +3,5 @@ backend/media/
 backend/staticfiles/
 backend/db.sqlite3
 backend/test.rest
+
+frontend/node_modules/
