@@ -1,0 +1,5 @@
+backend/venv/
+backend/media/
+backend/staticfiles/
+backend/db.sqlite3
+backend/test.rest
