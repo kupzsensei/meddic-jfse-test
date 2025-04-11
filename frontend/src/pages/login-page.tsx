@@ -18,7 +18,6 @@ const LoginPage: React.FC = () => {
         alert("Login successful");
         navigate("/");
       } else {
-        // const response = res.json() as Record<string, any>;
         const keys: string[] = Object.keys(res);
         alert(`Login failed : ${res[keys[0]]}`);
       }
